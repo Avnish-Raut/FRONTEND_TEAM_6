@@ -6,6 +6,11 @@ Create a fully functional website (ex Merklebits) using react technology. Merkle
 
 ## How the project works
 
+1. The Main Website is developed using React Framework. One can access its main file through React Folder following => ReeactApp => src => Home.jsx, this will further lead to display of the main website.
+2. E Commerce => This Wesbite has its individual Folder which consists of its files
+3. Software => Software Folder has main contents present.
+4. Import & Export => Particular Folder in the repository to acccss the files and view it!
+
 ## Instructions on how to run it
 
 ## Team Members information
