@@ -1,0 +1,28 @@
+body::before {
+  display: block;
+  content: "";
+  height: 60px;
+}
+
+.text {
+  font-style: normal;
+  font: 1em sans-serif;
+  font-size: 15px;
+}
+
+.size {
+  width: 75%;
+}
+.accordion-button {
+  font-size: 20px;
+  font-weight: 500;
+  font-style: italic;
+}
+.accordion-body {
+  font-size: 17px;
+}
+
+.d-block {
+  width: 100%;
+  height: 800px;
+}
