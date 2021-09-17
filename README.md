@@ -14,8 +14,8 @@ Create a fully functional website (ex Merklebits) using react technology. Merkle
 ## Instructions on how to run it
 1. Open the terminal in the folder 
 2. Type "npm start"
-3. Then it will start 
-[Click here for more info](https://github.com/Avnish-Raut/FRONTEND_TEAM_6/raw/Main%20React/README.md) 
+3. Then it will start <br>
+[Click here for more info](https://github.com/Avnish-Raut/FRONTEND_TEAM_6/blob/Main%20React/README.md) 
 ## Team Members information
 
 1. Akshay <br>
