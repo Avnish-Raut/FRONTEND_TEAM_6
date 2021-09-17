@@ -20,7 +20,7 @@ Create a fully functional website (ex Merklebits) using react technology. Merkle
 2. Avnish <br>
    Github(https://github.com/Avnish-Raut), LinkedIn(https://www.linkedin.com/in/avnish-raut-8193b71b6/)
 3. Anushka <br>
-   Github(https://github.com/Anushka2500), LinkedIn()
+   Github(https://github.com/Anushka2500), LinkedIn(https://www.linkedin.com/in/anushka-patil-1772531b7)
 4. Alaster <br>
    Github(https://github.com/Alaster710), LinkedIn()
 5. Yashodeep <br>
