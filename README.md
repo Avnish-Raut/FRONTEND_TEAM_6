@@ -12,7 +12,10 @@ Create a fully functional website (ex Merklebits) using react technology. Merkle
 4. Import & Export => Particular Folder in the repository to acccss the files and view it!
 
 ## Instructions on how to run it
-
+1. Open the terminal in the folder 
+2. Type "npm start"
+3. Then it will start 
+[Click here for more info](https://github.com/Avnish-Raut/FRONTEND_TEAM_6/raw/Main%20React/README.md) 
 ## Team Members information
 
 1. Akshay <br>
